@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\c++\tasks\Task (3)\Source.cpp(75,12): warning C4101: 'y1': unreferenced local variable
+C:\Users\user\Desktop\c++\tasks\Task (3)\Source.cpp(128,6): warning C4101: 'capital': unreferenced local variable
+C:\Users\user\Desktop\c++\tasks\Task (3)\Source.cpp(10,9): warning C4101: 'y': unreferenced local variable
+C:\Users\user\Desktop\c++\tasks\Task (3)\Source.cpp(129,6): warning C4101: 'small': unreferenced local variable
+  Task (3).vcxproj -> C:\Users\user\Desktop\c++\tasks\Task (3)\x64\Debug\Task (3).exe
